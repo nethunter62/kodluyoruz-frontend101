@@ -1,2 +1,5 @@
 # kodluyoruz-frontend101
-html-ödev1
+
+## Kodluyoruz html ödev 1
+
+## www.patika.dev
